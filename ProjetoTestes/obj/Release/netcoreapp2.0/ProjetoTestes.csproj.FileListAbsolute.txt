@@ -1,0 +1,16 @@
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\ProjetoTestes.deps.json
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\ProjetoTestes.runtimeconfig.json
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\ProjetoTestes.runtimeconfig.dev.json
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\ProjetoTestes.dll
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\ProjetoTestes.pdb
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\SistemaVendas.dll
+C:\tempft\SistemaVendas\ProjetoTestes\bin\Release\netcoreapp2.0\SistemaVendas.pdb
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.csprojResolveAssemblyReference.cache
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.csproj.CoreCompileInputs.cache
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.AssemblyInfoInputs.cache
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.AssemblyInfo.cs
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.dll
+C:\tempft\SistemaVendas\ProjetoTestes\obj\Release\netcoreapp2.0\ProjetoTestes.pdb
